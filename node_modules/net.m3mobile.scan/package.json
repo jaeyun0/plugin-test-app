@@ -1,0 +1,40 @@
+{
+  "_from": "git+https://github.com/jaeyun0/cordova-plugin-m3scan.git",
+  "_id": "net.m3mobile.scan@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-gIVXYOlX40UCUQi0e5L/WxVWCCg=",
+  "_location": "/net.m3mobile.scan",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/jaeyun0/cordova-plugin-m3scan.git",
+    "rawSpec": "https://github.com/jaeyun0/cordova-plugin-m3scan.git",
+    "saveSpec": "git+https://github.com/jaeyun0/cordova-plugin-m3scan.git",
+    "fetchSpec": "https://github.com/jaeyun0/cordova-plugin-m3scan.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/jaeyun0/cordova-plugin-m3scan.git#dc0eab58cdfd932bb66e473586beff1adbf48fca",
+  "_spec": "https://github.com/jaeyun0/cordova-plugin-m3scan.git",
+  "_where": "C:\\Users\\M3\\pluginTestApp",
+  "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "net.m3mobile.scan",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "net.m3mobile.scan",
+  "version": "0.0.1"
+}
